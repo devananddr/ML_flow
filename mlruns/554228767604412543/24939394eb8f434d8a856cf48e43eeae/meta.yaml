@@ -1,0 +1,15 @@
+artifact_uri: /home/devanandr/ml_flow/ML_flow/mlruns/554228767604412543/24939394eb8f434d8a856cf48e43eeae/artifacts
+end_time: 1691057879107
+entry_point_name: ''
+experiment_id: '554228767604412543'
+lifecycle_stage: active
+run_id: 24939394eb8f434d8a856cf48e43eeae
+run_name: lyrical-fawn-607
+run_uuid: 24939394eb8f434d8a856cf48e43eeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691057877053
+status: 3
+tags: []
+user_id: devanandr
